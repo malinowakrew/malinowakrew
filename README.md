@@ -2,7 +2,7 @@
 
 Here is Edyta Mróz aka malinowakrew.
 
-I'm currently student applied computer science student at AGH University. 
+I'm currently applied computer science student at AGH University. 
 My specialization is AI and expert systems.
 
 
